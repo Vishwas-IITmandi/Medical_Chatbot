@@ -1,7 +1,5 @@
-🩺 MediBot: Your AI-Powered Medical Assistant
-<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/user-attachments/assets/dd7c1f8d-c849-4179-8d6a-543163456747" alt="MediBot Interface" width="700"/>
-</p>
+## 🩺 MediBot: Your AI-Powered Medical Assistant
+
 
 Welcome to MediBot! This is a sophisticated, AI-driven medical chatbot designed to provide information about medical conditions and symptoms. Built with a modern tech stack, this project leverages the power of Google's Gemini 1.5 Flash, the flexibility of LangChain, and the speed of Pinecone to deliver accurate, context-aware responses.
 
